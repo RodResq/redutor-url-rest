@@ -1,4 +1,4 @@
-package br.com.redutorurlrest.redutorurlrest;
+package br.com.redutorurlrest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
